@@ -1,0 +1,11 @@
+js
+1. Firstly all the value where changes will be done or either which changes are to be considered are taken.
+2. Bunch of event Listeners are listed with there with the parameters as(events,function).
+3. Events can be of click, timeupdate, change.
+4. pause and play are eventListener of video tag.
+5. 
+
+
+
+FOr better understanding in video and audio APIs
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs
